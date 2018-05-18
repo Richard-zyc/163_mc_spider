@@ -49,7 +49,7 @@ class WangYi_MC(object):
             'https:':'https://127.0.0.1'
         }
 
-        self.url = 'http://music.163.com//weapi/v1/resource/comments/A_DJ_1_1369324372?csrf_token=90e04572eb42b040167323ec2fcdd79f'
+        self.url = 'http://music.163.com//weapi/v1/resource/comments/R_SO_4_516076896?csrf_token=90e04572eb42b040167323ec2fcdd79f'
         # 第二个参数
         self.second_param = "010001"
         # 第三个参数
