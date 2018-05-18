@@ -100,7 +100,7 @@ class WangYi_MC(object):
 
     def write_page(self):
         aa = json.dumps(self.item_list)
-        with open('aa.json', 'a+') as f:
+        with open('纸短情长.json', 'a+') as f:
             f.write(aa)
         print("写入文件成功!")
 
